@@ -47,7 +47,7 @@ double kToF(double kelvin) {
 int main() {
 
     int selection;
-    double inputTemp, outputTemp; // User input, functions output variables
+    double inputTemp, outputTemp; // User's input and functions output variables
 
     do {
         // Display Menu
